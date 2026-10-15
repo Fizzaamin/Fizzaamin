@@ -1,23 +1,25 @@
- <!-- ============ ANIMATED HEADER ============ -->
+<!-- ============ ANIMATED HEADER ============ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=240&section=header&text=Fizza%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Fizza Amin - Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=240&section=header&text=Fizza%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Fizza Amin profile header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=760&height=60&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Exploring+AI-Powered+Solutions;Turning+Ideas+into+Digital+Products" alt="Developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=760&height=60&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Exploring+AI-Powered+Solutions;Turning+Ideas+into+Digital+Products" alt="Animated developer introduction" />
 
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Fizzaamin&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views" />
+
+  <a href="https://github.com/Fizzaamin">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
 
   <a href="https://www.linkedin.com/in/fizzaamin">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 
   <a href="mailto:fizzanuml@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
-
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-C71585?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to opportunities" />
 </div>
 
 <br/>
@@ -26,9 +28,9 @@
 
 ## About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer working on code" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
 
-I'm a **Full Stack Developer** passionate about transforming ideas into modern, functional, and user-friendly web applications. I enjoy working across the frontend and backend, building responsive interfaces, developing APIs, and exploring AI-powered solutions.
+I'm a **Full Stack Developer** passionate about turning ideas into modern, functional, and user-friendly digital experiences. I enjoy building responsive interfaces, developing backend functionality, and exploring AI-powered applications.
 
 - Currently exploring full-stack development and AI-powered applications.
 - Learning modern technologies and improving my development workflow.
@@ -66,7 +68,7 @@ I'm a **Full Stack Developer** passionate about transforming ideas into modern, 
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
       <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
       <img src="https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-      <img src="https://img.shields.io/badge/JWT-D946A6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+      <img src="https://img.shields.io/badge/JWT-D946A6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
     </td>
   </tr>
   <tr>
@@ -89,7 +91,7 @@ I'm a **Full Stack Developer** passionate about transforming ideas into modern, 
 
 ---
 
-<!-- ============ PROJECTS ============ -->
+<!-- ============ FEATURED PROJECTS ============ -->
 
 ## Featured Projects
 
@@ -97,19 +99,21 @@ I'm a **Full Stack Developer** passionate about transforming ideas into modern, 
   <tr>
     <td width="50%" valign="top">
       <h3>HyperNova AI</h3>
-      <p>An AI-powered web application focused on delivering smart, intuitive, and modern digital experiences.</p>
-      <img src="https://img.shields.io/badge/AI-Powered-FF69B4?style=flat-square&logo=google-gemini&logoColor=white" alt="AI powered" />
-      <img src="https://img.shields.io/badge/Web-Application-D946A6?style=flat-square" alt="Web application" />
-      <img src="https://img.shields.io/badge/Status-In%20Development-C71585?style=flat-square" alt="In development" />
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME">Explore GitHub Projects</a></p>
+      <p>An AI-powered web application designed to deliver smart, intuitive, and modern digital experiences.</p>
+      <img src="https://img.shields.io/badge/Artificial_Intelligence-FF69B4?style=flat-square" alt="Artificial intelligence" />
+      <img src="https://img.shields.io/badge/Web_Application-D946A6?style=flat-square" alt="Web application" />
+      <img src="https://img.shields.io/badge/Status-In_Development-C71585?style=flat-square" alt="Project status" />
+      <br/><br/>
+      <a href="https://github.com/Fizzaamin?tab=repositories">Explore Repositories</a>
     </td>
     <td width="50%" valign="top">
       <h3>Fizora Lab</h3>
-      <p>A web development project focused on clean architecture, modern interfaces, and practical full-stack development.</p>
-      <img src="https://img.shields.io/badge/Full_Stack-Development-FF69B4?style=flat-square&logo=react&logoColor=white" alt="Full-stack development" />
-      <img src="https://img.shields.io/badge/Modern-UI-D946A6?style=flat-square" alt="Modern user interface" />
-      <img src="https://img.shields.io/badge/Status-In%20Development-C71585?style=flat-square" alt="In development" />
-      <p><a href="https://github.com/YOUR_GITHUB_USERNAME">Explore GitHub Projects</a></p>
+      <p>A development project focused on modern interfaces, structured code, and practical web application development.</p>
+      <img src="https://img.shields.io/badge/Full_Stack_Development-FF69B4?style=flat-square" alt="Full-stack development" />
+      <img src="https://img.shields.io/badge/Modern_UI-D946A6?style=flat-square" alt="Modern UI" />
+      <img src="https://img.shields.io/badge/Status-In_Development-C71585?style=flat-square" alt="Project status" />
+      <br/><br/>
+      <a href="https://github.com/Fizzaamin?tab=repositories">Explore Repositories</a>
     </td>
   </tr>
 </table>
@@ -121,21 +125,21 @@ I'm a **Full Stack Developer** passionate about transforming ideas into modern, 
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true&title_color=FF69B4&icon_color=D946A6" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fizzaamin&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=D946A6&bg_color=ffffff" alt="Fizza Amin GitHub statistics" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true&title_color=FF69B4" alt="Most used programming languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=default&hide_border=true&ring=FF69B4&fire=D946A6&currStreakLabel=FF69B4" alt="GitHub contribution streak" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=flat&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&title=Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub achievements" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzaamin&layout=compact&hide_border=true&title_color=FF69B4&bg_color=ffffff" alt="Most used programming languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=ffffff&color=D946A6&line=FF69B4&point=C71585&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+  <img src="https://streak-stats.demolab.com/?user=Fizzaamin&hide_border=true&background=FFFFFF&ring=FF69B4&fire=D946A6&currStreakLabel=FF69B4" alt="GitHub contribution streak" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=Fizzaamin&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile achievements" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizzaamin&bg_color=ffffff&color=D946A6&line=FF69B4&point=C71585&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 </div>
 
 ---
@@ -147,17 +151,23 @@ I'm a **Full Stack Developer** passionate about transforming ideas into modern, 
 I'm interested in building meaningful digital products, collaborating with developers, exploring new technologies, and taking on exciting development opportunities.
 
 <div align="center">
+  <a href="https://github.com/Fizzaamin">
+    <img src="https://img.shields.io/badge/GitHub-Fizzaamin-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+
   <a href="https://www.linkedin.com/in/fizzaamin">
-    <img src="https://img.shields.io/badge/LinkedIn-Fizza%20Amin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Fizza Amin on LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Fizza%20Amin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 
   <a href="mailto:fizzanuml@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fizzanuml%40gmail.com-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fizza Amin" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fizza Amin" />
   </a>
 
   <br/><br/>
 
-  <p><strong>Let's build something meaningful together.</strong></p>
+  <strong>Let's build something meaningful together.</strong>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer" width="100%" alt="Pink profile footer" />
+  <br/><br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer" width="100%" alt="Pink footer banner" />
 </div>
