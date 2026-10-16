@@ -1,173 +1,157 @@
 <!-- ============ ANIMATED HEADER ============ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=240&section=header&text=Fizza%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=58&descSize=18" width="100%" alt="Fizza Amin profile header" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=760&height=60&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Modern+Web+Applications;Exploring+AI-Powered+Solutions;Turning+Ideas+into+Digital+Products" alt="Animated developer introduction" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac8,50:ff4fa3,100:b3135f&height=240&section=header&text=Fizza%20Amin&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Specialist&descAlignY=58&descSize=20" width="100%" alt="header" />
 
-  <br/>
+<a href="https://github.com/Fizzaamin">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=900&color=FF4FA3&center=true&vCenter=true&width=760&height=60&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+HyperNova+AI;Creating+Fizora+Lab;Turning+Ideas+into+Real+Products" alt="Typing SVG" />
+</a>
 
-  <img src="https://komarev.com/ghpvc/?username=Fizzaamin&label=PROFILE%20VIEWS&color=FF69B4&style=for-the-badge" alt="Profile views" />
+<br/>
 
-  <a href="https://github.com/Fizzaamin">
-    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Fizzaamin&label=Profile%20Views&color=ff4fa3&style=for-the-badge" alt="views" />
+<a href="https://www.linkedin.com/in/fizzaamin"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:fizzanuml@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-d81b7a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://img.shields.io/badge/Open_to-Work-b3135f?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
 
-  <a href="https://www.linkedin.com/in/fizzaamin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
-
-  <a href="mailto:fizzanuml@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
-  </a>
 </div>
 
 <br/>
 
-<!-- ============ ABOUT ME ============ -->
+<!-- ============ 3D ID CARD ============ -->
+<div align="center">
 
-## About Me
+<img src="./assets/id-card.svg" width="420" alt="Animated developer ID card of Fizza Amin" />
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation" />
+</div>
 
-I'm a **Full Stack Developer** passionate about turning ideas into modern, functional, and user-friendly digital experiences. I enjoy building responsive interfaces, developing backend functionality, and exploring AI-powered applications.
+<!-- ============ ABOUT ============ -->
+## <img src="https://api.iconify.design/lucide/user-round.svg?color=%23ff4fa3" width="26" align="center" /> About Me
 
-- Currently exploring full-stack development and AI-powered applications.
-- Learning modern technologies and improving my development workflow.
-- Focused on clean code, responsive design, performance, and user experience.
-- Interested in collaboration, freelance projects, internships, and professional opportunities.
+<img align="right" width="300" src="./assets/character-float.svg" alt="Fizza floating 3D developer character" />
+
+I'm a **Full Stack Developer** who turns ideas into polished, production-ready web products using the **MERN stack**. I enjoy building end to end: sleek UIs, solid APIs, and smart AI-powered features.
+
+- <img src="https://api.iconify.design/lucide/search.svg?color=%23ff4fa3" width="18" align="center" /> Currently building **HyperNova AI** and **Fizora Lab**
+- <img src="https://api.iconify.design/lucide/sprout.svg?color=%23ff4fa3" width="18" align="center" /> Always learning new tools and better ways to ship
+- <img src="https://api.iconify.design/lucide/zap.svg?color=%23ff4fa3" width="18" align="center" /> I care about clean code, performance, and great UX
+- <img src="https://api.iconify.design/lucide/message-circle.svg?color=%23ff4fa3" width="18" align="center" /> Open to collaborations, freelance work, and full-time roles
 
 <br clear="right"/>
 
----
-
 <!-- ============ TECH STACK ============ -->
-
-## Technical Skills
+## <img src="https://api.iconify.design/lucide/wrench.svg?color=%23ff4fa3" width="26" align="center" /> Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=6&theme=light" alt="Development technologies and tools" />
-</div>
 
-<br/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,git,github,postman,vscode&perline=12" alt="skills" />
+</a>
+
+</div>
 
 <table align="center">
-  <tr>
-    <td align="center" width="180"><strong>Frontend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend Development</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express.js-333333?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      <img src="https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge&logo=postman&logoColor=white" alt="REST API" />
-      <img src="https://img.shields.io/badge/JWT-D946A6?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT authentication" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Database</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Development Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
-    </td>
-  </tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/lucide/palette.svg?color=%23ff4fa3" width="22" /><br/><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/HTML5-ff4fa3?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-ff6ab5?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-e91e8c?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-ff85c0?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-d81b7a?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/lucide/server.svg?color=%23ff4fa3" width="22" /><br/><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/Node.js-ff4fa3?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-e91e8c?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-ff6ab5?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-d81b7a?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/lucide/database.svg?color=%23ff4fa3" width="22" /><br/><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/MongoDB-ff4fa3?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-e91e8c?style=for-the-badge&logo=mongoose&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><img src="https://api.iconify.design/lucide/hammer.svg?color=%23ff4fa3" width="22" /><br/><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-ff4fa3?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-d81b7a?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-ff6ab5?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-e91e8c?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</td>
+</tr>
 </table>
 
----
+<!-- ============ PROJECTS ============ -->
+## <img src="https://api.iconify.design/lucide/pin.svg?color=%23ff4fa3" width="26" align="center" /> Top Projects
 
-<!-- ============ FEATURED PROJECTS ============ -->
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## Featured Projects
+### <img src="https://api.iconify.design/lucide/bot.svg?color=%23ff4fa3" width="24" align="center" /> HyperNova AI
+An AI-powered web app that delivers smart, fast, and intuitive user experiences.
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>HyperNova AI</h3>
-      <p>An AI-powered web application designed to deliver smart, intuitive, and modern digital experiences.</p>
-      <img src="https://img.shields.io/badge/Artificial_Intelligence-FF69B4?style=flat-square" alt="Artificial intelligence" />
-      <img src="https://img.shields.io/badge/Web_Application-D946A6?style=flat-square" alt="Web application" />
-      <img src="https://img.shields.io/badge/Status-In_Development-C71585?style=flat-square" alt="Project status" />
-      <br/><br/>
-      <a href="https://github.com/Fizzaamin?tab=repositories">Explore Repositories</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Fizora Lab</h3>
-      <p>A development project focused on modern interfaces, structured code, and practical web application development.</p>
-      <img src="https://img.shields.io/badge/Full_Stack_Development-FF69B4?style=flat-square" alt="Full-stack development" />
-      <img src="https://img.shields.io/badge/Modern_UI-D946A6?style=flat-square" alt="Modern UI" />
-      <img src="https://img.shields.io/badge/Status-In_Development-C71585?style=flat-square" alt="Project status" />
-      <br/><br/>
-      <a href="https://github.com/Fizzaamin?tab=repositories">Explore Repositories</a>
-    </td>
-  </tr>
+<img src="https://img.shields.io/badge/MERN-Stack-ff4fa3?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Powered-d81b7a?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Building-b3135f?style=flat-square" />
+
+<!-- Add link: [View Project](https://github.com/Fizzaamin/hypernova-ai) -->
+
+</td>
+<td width="50%" valign="top">
+
+### <img src="https://api.iconify.design/lucide/flask-conical.svg?color=%23ff4fa3" width="24" align="center" /> Fizora Lab
+A full stack project built around clean architecture, modern UI, and a scalable backend.
+
+<img src="https://img.shields.io/badge/MERN-Stack-ff4fa3?style=flat-square&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Full_Stack-Project-e91e8c?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Building-b3135f?style=flat-square" />
+
+<!-- Add link: [View Project](https://github.com/Fizzaamin/fizora-lab) -->
+
+</td>
+</tr>
 </table>
 
----
+<!-- ============ STATS ============ -->
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%23ff4fa3" width="26" align="center" /> GitHub Stats
 
-<!-- ============ GITHUB STATISTICS ============ -->
-
-## GitHub Statistics
+<!-- Replace Fizzaamin everywhere with the real GitHub username -->
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Fizzaamin&show_icons=true&hide_border=true&title_color=FF69B4&icon_color=D946A6&bg_color=ffffff" alt="Fizza Amin GitHub statistics" />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzaamin&layout=compact&hide_border=true&title_color=FF69B4&bg_color=ffffff" alt="Most used programming languages" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Fizzaamin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a0b14&title_color=ff4fa3&icon_color=ff85c0&text_color=ffe3f1" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fizzaamin&layout=compact&hide_border=true&bg_color=1a0b14&title_color=ff4fa3&text_color=ffe3f1" alt="languages" />
 
-  <br/><br/>
+<img src="https://streak-stats.demolab.com?user=Fizzaamin&hide_border=true&background=1a0b14&ring=ff4fa3&fire=ff85c0&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff4fa3&sideLabels=ff85c0&dates=ffe3f1" alt="streak" />
 
-  <img src="https://streak-stats.demolab.com/?user=Fizzaamin&hide_border=true&background=FFFFFF&ring=FF69B4&fire=D946A6&currStreakLabel=FF69B4" alt="GitHub contribution streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fizzaamin&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="trophies" />
 
-  <br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizzaamin&theme=react-dark&hide_border=true&area=true&bg_color=1a0b14&color=ff4fa3&line=ff85c0&point=ffffff" alt="activity graph" width="100%" />
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Fizzaamin&theme=flat&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile achievements" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fizzaamin&bg_color=ffffff&color=D946A6&line=FF69B4&point=C71585&area=true&hide_border=true" width="95%" alt="GitHub contribution activity graph" />
 </div>
 
----
-
 <!-- ============ CONNECT ============ -->
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%23ff4fa3" width="26" align="center" /> Let's Connect
 
-## Let's Connect
-
-I'm interested in building meaningful digital products, collaborating with developers, exploring new technologies, and taking on exciting development opportunities.
+I'm always up for chatting about web development, AI projects, or new opportunities. Say hello!
 
 <div align="center">
-  <a href="https://github.com/Fizzaamin">
-    <img src="https://img.shields.io/badge/GitHub-Fizzaamin-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-  </a>
 
-  <a href="https://www.linkedin.com/in/fizzaamin">
-    <img src="https://img.shields.io/badge/LinkedIn-Fizza%20Amin-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-  </a>
+<a href="https://www.linkedin.com/in/fizzaamin"><img src="https://img.shields.io/badge/LinkedIn-fizzaamin-ff4fa3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:fizzanuml@gmail.com"><img src="https://img.shields.io/badge/Email-fizzanuml@gmail.com-d81b7a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-  <a href="mailto:fizzanuml@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D946A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Fizza Amin" />
-  </a>
+<br/><br/>
 
-  <br/><br/>
+<img src="https://api.iconify.design/lucide/star.svg?color=%23ff4fa3" width="18" align="center" /> *If you like my work, drop a star or say hi!* <img src="https://api.iconify.design/lucide/star.svg?color=%23ff4fa3" width="18" align="center" />
 
-  <strong>Let's build something meaningful together.</strong>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ac8,50:ff4fa3,100:b3135f&height=140&section=footer" width="100%" alt="footer" />
 
-  <br/><br/>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=140&section=footer" width="100%" alt="Pink footer banner" />
 </div>
